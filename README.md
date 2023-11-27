@@ -38,4 +38,4 @@ typedef struct binary_tree_s heap_t;
 ## Authors :black_nib:
 
 * __Abdelaaziz Amksa__ <[amxsupport](https://github.com/amxsupport)>
-* __Ottman Chouqar__ <[](https://github.com/Otmanbboy)>
+* __Ottman Chouqar__ <[Ottman](https://github.com/Otmanbboy)>
